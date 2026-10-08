@@ -1,4 +1,4 @@
-# DBS Group Holdings — Quarterly Financial Variance Analysis
+# DBS Group Holdings Quarterly Financial Variance Analysis
 
 A SQL-based variance analysis of DBS Group Holdings' quarterly financial performance (1Q25–2Q26), built to practice FP&A-style variance tracking: quarter-over-quarter swings in income, profit, expenses, and cost-income ratio.
 
